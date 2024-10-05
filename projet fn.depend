@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1728133524 source:c:\users\youcode\downloads\projet fn\main.c
+	<stdio.h>
+	<string.h>
+
